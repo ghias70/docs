@@ -13,7 +13,7 @@ import { ref } from 'vue'
 // state
 const count = ref(0)
 
-// actions
+// actionsggg
 function increment() {
   count.value++
 }
